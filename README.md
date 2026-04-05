@@ -1,0 +1,2 @@
+# SkillSync---Your-perfect-pathway-to-Collaborative-Learning-Career-Excellence
+SkillSync is a web-based learning and career platform that combines collaborative study and AI-driven job preparation. It features study pods, peer help chat, AI study-buddy matching, feedback-based reputation, and AI mock interviews with personalized insights, creating a community-driven, goal-oriented learning experience.
