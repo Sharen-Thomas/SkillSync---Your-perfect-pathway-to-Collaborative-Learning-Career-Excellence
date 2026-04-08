@@ -56,6 +56,7 @@ SkillSync is an innovative web-based platform that reshapes collaborative learni
 - Browser: Chrome, Safari, Firefox (mobile: iOS/Android)
 
 ## SECURITY
+
 - Firebase Authentication for role-based access (Learner, Mentor, Admin)
 - HTTPS encryption for all data transfer
 - Firebase Security Rules for access control
@@ -64,9 +65,9 @@ SkillSync is an innovative web-based platform that reshapes collaborative learni
 
 ## FILES 
 
-- 'SentraCore_Planning_and_Feasibility_Report.pdf' - Project planning & feasibility
-- 'CSIT321_SentraCore_High_Level_Design.pdf' - Complete high-level design document
 - 'CSIT321_Project Demo.pdf' - App demonstration link 
 
-## DISCLAIMER
-**This repository is for viewing purposes only. It is not licensed for copying, modification, or commercial use without explicit permission from the author.**
+## CONTACT 
+
+- Email ID: sharenmariyamthomas@gmail.com
+- LinkedIn: www.linkedin.com/in/sharenthomas 
